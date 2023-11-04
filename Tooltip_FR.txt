@@ -1,0 +1,18 @@
+Tooltip_FR = {
+	Tooltip_item_runflats = "Pneus militaires universels qui n'éclateront jamais mais perdront de la traction lorsqu'ils se dégraderont.",
+	Tooltip_item_M35A2runflats = "Pneus militaires M35A2 qui n'éclateront jamais mais perdront de la traction lorsqu'ils se dégraderont.",
+	Tooltip_item_M35A2axleflats = "Essieu arrière M35A2 composé de 4 pneus militaires qui n'éclateront jamais mais perdront de la traction lorsqu'ils se dégraderont.",
+	Tooltip_item_M35A2Muffler1 = "Réduit quelque peu le bruit du moteur.",
+	Tooltip_item_M35A2Sidewalls1 = "Article cosmétique, construction de piquets pour plateau M35A2, peut être utilisé avec une bâche pour fabriquer une couverture souple.",
+	Tooltip_item_M35A2Tarp2 = "Article cosmétique, bâche souple pour plateau M35A2.",
+	Tooltip_item_M35A2Sidewalls3 = "Article cosmétique, piquets flancs pour plateau M35A2.",
+	Tooltip_item_M35A2Bumper1 = "Fixez-le à l'avant du M35A2 pour protéger le capot et le moteur.",
+	Tooltip_item_M35A2Grille1 = "Fixez-le à l'avant du M35A2 pour protéger les phares.",
+	Tooltip_item_M35A2HardCover1 = "Article cosmétique, couverture rigide pour armature M35A2.",
+	Tooltip_item_M35A2SoftCover2 = "Article cosmétique, bâche souple pour armature M35A2.",
+	Tooltip_item_M35A2Windshield2 = "Vous pouvez utiliser un scalpel pour couper des pare-brise robustes ordinaires afin de fabriquer un pare-brise M35A2 de remplacement.",
+	Tooltip_item_M35A2sideWindow2 = "Vous pouvez utiliser un scalpel pour couper des fenêtres robustes ordinaires afin de remplacer les fenêtres M35A2.",
+	Tooltip_item_M35A2WindshieldArmor1 = "Fixez-le à l'avant du M35A2 pour protéger le pare-brise.",
+	Tooltip_item_M35A2DoorArmor1 = "Fixez-le aux portes avant M35A2 pour protéger les portières et vitres avant.",
+	Tooltip_item_M35A2Mudflaps1 = "Article cosmétique, protège le gars derrière vous de la poussière et de la boue.",
+}
