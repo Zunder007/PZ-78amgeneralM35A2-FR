@@ -1,0 +1,21 @@
+IG_UI_FR = {
+	IGUI_VehicleName78amgeneralM35A2 = "'78 AM General M35A2",
+	IGUI_VehicleName78amgeneralM49A2C = "'78 AM General M49A2C Camion-citerne à carburant",
+	IGUI_VehicleName78amgeneralM50A3 = "'78 AM General M50A3 Camion-citerne à eau",
+	IGUI_VehicleName78amgeneralM62 = "'78 AM General M62 Wrecker",
+	IGUI_VehicleName78amgeneralM35A2Burnt = "'78 AM General M35A2 Brûlé",
+
+	IGUI_VehiclePartM35A2Tarp = "Bâche",
+	IGUI_VehiclePartM35A2CabCovers = "Bâche d'armature",
+	IGUI_VehiclePartM35A2Bumper = "Pare-chocs",
+	IGUI_VehiclePartM35A2Grille = "Grille avant",
+	IGUI_VehiclePartM35A2Mudflaps = "Garde-boues",
+	IGUI_VehiclePartM35A2SpareTire = "Pneu de secours",
+	IGUI_VehiclePartM62SpareTire = "Pneu de secours",
+	IGUI_VehiclePartM35A2Trunk = "Stockage",
+	IGUI_VehiclePartM49A2CTrunk = "Rangement du compartiment de pompe",
+	IGUI_VehiclePartM35A2Muffler = "Silencieux",
+	IGUI_VehiclePartM35A2WindshieldArmor = "Blindage de pare-brise",
+	IGUI_VehiclePartM35A2DoorLeftArmor = "Blindage de portière avant gauche",
+	IGUI_VehiclePartM35A2DoorRightArmor = "Blindage de portière avant droite",
+}
