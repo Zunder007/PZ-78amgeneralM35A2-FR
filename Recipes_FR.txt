@@ -1,0 +1,15 @@
+Recipes_FR = {
+	Recipe_Convert_M35A2_RunFlat_Tire = "Convertir Pneu anti-crevaison",
+	Recipe_Dismantle_M35A2_RunFlat_4_Tire_Axle = "Démonter Essieu de pneu anti-crevaison x4",
+	Recipe_Make_M35A2_Bumper = "Fabriquer Pare-chocs",
+	Recipe_Make_M35A2_Door_Armor = "Fabriquer Blindage de portière",
+	Recipe_Make_M35A2_Grille = "Fabriquer Grille",
+	Recipe_Make_M35A2_Muffler = "Fabriquer Silencieux",
+	Recipe_Make_M35A2_RunFlat_4_Tire_Axle = "Fabriquer Essieu de pneu anti-crevaison x4",
+	Recipe_Make_M35A2_Side_Window = "Fabriquer Vitre latérale",
+	Recipe_Make_M35A2_Stake = "Fabriquer Pieu",
+	Recipe_Make_M35A2_Stake_Construction = "Fabriquer Pieu de construction",
+	Recipe_Make_M35A2_Tarp_cover = "Fabriquer Bâche",
+	Recipe_Make_M35A2_Windshield = "Fabriquer Pare-brise",
+	Recipe_Make_M35A2_Windshield_Armor = "Fabriquer Blindage de pare-brise",
+}
