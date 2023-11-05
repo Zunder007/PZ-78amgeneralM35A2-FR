@@ -18,4 +18,6 @@ IG_UI_FR = {
 	IGUI_VehiclePartM35A2WindshieldArmor = "Blindage de pare-brise",
 	IGUI_VehiclePartM35A2DoorLeftArmor = "Blindage de portière avant gauche",
 	IGUI_VehiclePartM35A2DoorRightArmor = "Blindage de portière avant droite",
+
+	IGUI_CraftCategory_M35A2 = "'78 AM General M35A2",
 }
