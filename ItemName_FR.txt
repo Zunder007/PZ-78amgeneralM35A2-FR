@@ -22,4 +22,5 @@ ItemName_FR = {
 	ItemName_Base.M49PumpDoor2 = "M49/M50 Portes de pompe",
 	ItemName_Base.V103Axle2 = "M35A2 Essieu de pneu anti-crevaison x4",
 	ItemName_Base.V103Tire2 = "M35A2 Pneu anti-crevaison",
+	ItemName_Base.V100Tire2 = "Pneu anti-crevaison",
 }
