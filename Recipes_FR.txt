@@ -12,4 +12,5 @@ Recipes_FR = {
 	Recipe_Make_M35A2_Tarp_cover = "Fabriquer Bâche",
 	Recipe_Make_M35A2_Windshield = "Fabriquer Pare-brise",
 	Recipe_Make_M35A2_Windshield_Armor = "Fabriquer Blindage de pare-brise",
+	Recipe_Convert_Standard_RunFlat_Tire = "Convertir Pneu anti-crevaison",
 }
